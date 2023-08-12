@@ -1,5 +1,0 @@
-{{#user}}
-My name is Sanjivan.
-Here are my skills : html, css, js, node.js, express.js, git, docker, c++, python . 
-My email id is sanjivanpal9@gmail.com.
- {{/user}}
